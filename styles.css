@@ -1,0 +1,16 @@
+td
+{
+    background-color: red;
+    width: 220px;
+    height: 220px;
+    text-align: center;
+}
+
+.spot
+{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    text-align: center;
+}
